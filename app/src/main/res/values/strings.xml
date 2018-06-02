@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Awesome App</string>
+    <string name="title_activity_home">Have an awesome day</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="actionsTitleCb_string">Acciones del día</string>
+    <string name="todo1_string">Abrazar a alguien</string>
+    <string name="todo2_string">Dar los buenos dias</string>
+    <string name="todo3_string">Sonreir</string>
+
+    <string name="happinesQuestion">Nivel de felicidad actual</string>
+
+    <string name="advice_of_the_day">Muchas veces pensamos que necesitamos alcanzar una gran meta o que pase un acontecimiento importante para poder ser felices. Pero hay que disfrutar el proceso, lo que pasa en el camino y los momentos hermosos que nacen espontáneamente.</string>
+
+
+</resources>
