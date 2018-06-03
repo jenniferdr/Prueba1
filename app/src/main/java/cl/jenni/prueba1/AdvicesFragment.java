@@ -6,7 +6,6 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 
 
 public class AdvicesFragment extends Fragment {
@@ -30,10 +29,10 @@ public class AdvicesFragment extends Fragment {
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
-        TextView greeting = (TextView) view.findViewById(R.id.greetings_text);
+        /*TextView greeting = (TextView) view.findViewById(R.id.greetings_text);
         String userName = getActivity().getIntent().getStringExtra("USERNAME");
 
-        greeting.setText("Hola " + userName +",");
+        greeting.setText("Hola " + userName +",");*/
 
 
     }
